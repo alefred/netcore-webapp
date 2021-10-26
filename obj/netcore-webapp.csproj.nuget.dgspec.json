@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/e/dev/2021/netcore-webapp/netcore-webapp.csproj": {}
+    "/mnt/e/dev/2021/netcore-webApp/netcore-webapp.csproj": {}
   },
   "projects": {
-    "/mnt/e/dev/2021/netcore-webapp/netcore-webapp.csproj": {
+    "/mnt/e/dev/2021/netcore-webApp/netcore-webapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/e/dev/2021/netcore-webapp/netcore-webapp.csproj",
+        "projectUniqueName": "/mnt/e/dev/2021/netcore-webApp/netcore-webapp.csproj",
         "projectName": "netcore-webapp",
-        "projectPath": "/mnt/e/dev/2021/netcore-webapp/netcore-webapp.csproj",
+        "projectPath": "/mnt/e/dev/2021/netcore-webApp/netcore-webapp.csproj",
         "packagesPath": "/home/alefred/.nuget/packages/",
-        "outputPath": "/mnt/e/dev/2021/netcore-webapp/obj/",
+        "outputPath": "/mnt/e/dev/2021/netcore-webApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/alefred/.nuget/NuGet/NuGet.Config"

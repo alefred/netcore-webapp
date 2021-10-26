@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hlqz+D4Q4RnwGujtCgNOoRbQdkMKpEqjPqtRv33HFp7YVZYC2VmYcDWnKKhm+PdhCuEb7xQIahZhfMcO6Mk/4A==",
+  "dgSpecHash": "byTLDyOYrR0jV7yZx1rPr8V7mwMfnQ3nnbywd7G2qp1swXA8qH9dKCpnepP3TfVxhhlY4ykKuQXKSOXL+8Gdyw==",
   "success": true,
-  "projectFilePath": "/mnt/e/dev/2021/netcore-webapp/netcore-webapp.csproj",
+  "projectFilePath": "/mnt/e/dev/2021/netcore-webApp/netcore-webapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

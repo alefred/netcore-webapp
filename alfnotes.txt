@@ -1,0 +1,2 @@
+Dotnet gitignore file:
+>dotnet new gitignore
